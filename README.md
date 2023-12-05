@@ -4,7 +4,8 @@
 
 This is test 1.
 
-#Plan of Action
+# Plan of Action
 
-*To learn and test how the practice works.
-*To sharpen of git add ,clone, commit and push
+* To learn and test how the practice works.
+* To sharpen of git add ,clone, commit and push
+* To work on commit -m
